@@ -1,2 +1,2 @@
-# js-epub-maker-esm
-Easily create downloadable epub files with javascript
+this is an esm port of https://github.com/bbottema/js-epub-maker
+html prettify does not work but should be irrelevant in pretty much all cases anyways.
